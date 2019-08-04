@@ -1,2 +1,3 @@
-# ReadingJDK
-jdk源码阅读学习。
+## ReadingJDK
+* jdk源码阅读;
+* 学习.
